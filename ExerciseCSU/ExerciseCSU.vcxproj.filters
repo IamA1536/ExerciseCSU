@@ -13,5 +13,21 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\QuickSort0926">
+      <UniqueIdentifier>{0a20dfb0-33ce-4586-8667-d7521c5d4641}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\QuickSort0926">
+      <UniqueIdentifier>{c93c0c6c-5a07-4525-9018-fdb28f9657f1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="QuickSort.cpp">
+      <Filter>源文件\QuickSort0926</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="QuickSort.h">
+      <Filter>头文件\QuickSort0926</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
